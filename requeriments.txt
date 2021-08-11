@@ -1,0 +1,9 @@
+flask==1.1.2                #Trabajaremos con este framework
+flask-bootstrap==3.3.7.1
+flask-wtf==0.14.3           #formularios
+flask-testing==8.8.1        #para testeo
+flask-sqlalchemy==2.5.1     #base de datos
+flask-login==0.4.1          #loguearse
+flask-FontAwesome==0.1.5    #iconos
+marshmallow-sqlalchemy==0.24.1  #vistas
+email-validator==1.1.2      #enviar-mail
